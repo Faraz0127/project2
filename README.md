@@ -1,4 +1,4 @@
 # New Project
 
 This project is created from local system.
-Created by Faraz Pasha
+Created by Faraz Pasha.
